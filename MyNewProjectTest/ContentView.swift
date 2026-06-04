@@ -17,6 +17,7 @@ struct ContentView: View {
             Image(systemName: "person.crop.circle")
         }
         .padding()
+        
     }
 }
 
