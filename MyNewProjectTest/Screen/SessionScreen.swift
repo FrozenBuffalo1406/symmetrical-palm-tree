@@ -10,6 +10,7 @@ struct SessionScreen: View {
     var body: some View {
         VStack {
             Text("Session")
+            Text("Hello World!")
         }
     }
 }
