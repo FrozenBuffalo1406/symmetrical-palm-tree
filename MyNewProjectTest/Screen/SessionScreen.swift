@@ -10,6 +10,8 @@ struct SessionScreen: View {
     var body: some View {
         VStack {
             Text("Session")
+            Image(systemName: "person.fill")
+                .imageScale(.large)
         }
     }
 }
